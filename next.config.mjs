@@ -1,0 +1,7 @@
+const nextConfig = {
+  images: {
+    qualities: [75, 80],
+  },
+};
+
+export default nextConfig;
